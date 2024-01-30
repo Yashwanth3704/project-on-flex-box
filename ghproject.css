@@ -72,7 +72,7 @@ body{
     left: -32rem;
     width: 40rem;
     height: 100%;
-    background:linear-gradient(to top, rgba(34,32,41,1), rgba(34,32,41,0.78)) ,url(/p2/hotel.jpg) center no-repeat;
+    background:linear-gradient(to top, rgba(34,32,41,1), rgba(34,32,41,0.78)) ,url(hotel.jpg) center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -199,7 +199,7 @@ body{
 .header{
     margin-left: 8rem;
     height: 100vh;
-    background:linear-gradient(to top , rgba(0,0,0,.6),rgba(0,0,0,.5)) ,url(/p2/hotelh.jpg) center no-repeat;
+    background:linear-gradient(to top , rgba(0,0,0,.6),rgba(0,0,0,.5)) ,url(hotelh.jpg) center no-repeat;
     background-size: cover;
 }
 .brand{
